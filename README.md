@@ -5,11 +5,13 @@ The app allows users to send real-time messages, track online user statuses, and
 
 ## Features
 
-- **Real-time messaging**: Users can send messages and receive them instantly with **Socket.io**.
-- **User Autentication**: Secure login and registration using JWT.
-- **Online user status**: Displays the status of users (online/offline) in real-time.
-- **Responsive Design**: Built with **TailwindCSS** and **Daisy UI** to create a modern, user-friendly interface.
-- **Global state management**: Handles the application’s state efficiently with **Zustand**.
+- Users can send messages and receive them instantly with Socket.io for real-time messaging.
+- Authentication and authorization are handled through secure login and registration using JWT (JSON Web Tokens).
+- The application displays the status of users (online/offline) in real-time.
+- Responsive design built with TailwindCSS and Daisy UI to create a modern user-friendly interface.
+- The app's state is efficiently managed with Zustand for global state management.
+
+  
 
 ## Technologies Used
 
