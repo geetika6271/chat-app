@@ -1,4 +1,4 @@
-# Realtime Chat App - MERN Stack
+# Realtime Chat Application
 
 This full-stack **Realtime Chat App** built using the **MERN stack** and **Socket.io** for real-time communication. 
 The app allows users to send real-time messages, track online user statuses, and manage authentication and authorization via JWT.
