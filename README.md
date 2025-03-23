@@ -5,12 +5,6 @@ The app allows users to send real-time messages, track online user statuses, and
 
 ## Features
 
-<-- Real-time messaging between users
-- User authentication
-- Responsive frontend built with React.js
-- Backend API built with Express.js and Node.js
-- Persistent user data stored in MongoDB
-- Socket.io integration for real-time communication -->
 - **Real-time messaging**: Users can send messages and receive them instantly with **Socket.io**.
 - **User Autentication**: Secure login and registration using JWT.
 - **Online user status**: Displays the status of users (online/offline) in real-time.
